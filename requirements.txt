@@ -1,0 +1,10 @@
+# torch must be the cu128 build for the RTX 5070 Ti (sm_120):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+numpy
+matplotlib
+torch
+gymnasium
+ale-py
+pandas
+tqdm
+pytest
